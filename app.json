@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "imobis",
+    "slug": "imobis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
