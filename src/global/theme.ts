@@ -3,6 +3,6 @@ export default {
     primary: "#7E22CE",
     secondary: "#7E22CE20",
     shape: "#FFFFFF",
-    text: "#212121",
+    text: "#444",
   },
 };

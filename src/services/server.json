@@ -1,0 +1,44 @@
+{
+  "house_types": [
+    { "key": "to_hire", "title": "Para aluguel" },
+    { "key": "sell", "title": "À venda" }
+  ],
+  "houses": [
+    {
+      "id": 1,
+      "name": "Casa 1",
+      "about": "Uma casa popular a venda",
+      "types": ["to_hire", "sell"],
+      "data": ["4 quartos", "2 banheiros", "2 salas"],
+      "restroom": "2 banheiros",
+      "rooms": "2 salas",
+      "bedrooms": "4 quartos",
+      "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "galery": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      ],
+      "price": "199999",
+      "address": "Rua Miguel Januário • Santa Isabel"
+    },
+    {
+      "id": 2,
+      "name": "Casa 1",
+      "about": "Uma casa popular a venda",
+      "types": ["sell"],
+      "data": ["2 quartos", "1 banheiro", "1 sala"],
+      "restroom": "1 banheiro",
+      "rooms": "1 sala",
+      "bedrooms": "2 quartos",
+      "photo": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80",
+      "galery": [
+        "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80",
+        "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80",
+        "https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=978&q=80"
+      ],
+      "price": "150999",
+      "address": "Rua Miguel Januário • Santa Isabel"
+    }
+  ]
+}
