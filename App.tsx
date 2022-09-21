@@ -4,6 +4,9 @@ import { ThemeProvider } from "styled-components";
 import theme from "./src/global/theme";
 import { View } from "react-native";
 import { StatusBar } from "expo-status-bar";
+import { Onboarding } from "./src/screens/Onboarding";
+import { Routes } from "./src/routes";
+// import "react-native-gesture-handler";
 
 export default function App() {
   return (
@@ -15,7 +18,8 @@ export default function App() {
           backgroundColor="transparent"
           translucent={true}
         />
-        <Home />
+        {/* <Onboarding /> */}
+        <Routes />
       </View>
     </ThemeProvider>
     // </Contain>
